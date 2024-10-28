@@ -144,7 +144,7 @@ class LoginPage extends StatelessWidget {
                                 ),
                               ),
                               SizedBox(width: 10),
-                              Text('sabar anjing'),
+                              Text('bentar'),
                             ],
                           );
                         }

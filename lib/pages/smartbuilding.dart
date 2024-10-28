@@ -6,7 +6,7 @@ class RoomSelectionPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Selamat Datang Di Halaman SmartBuilding'),
+        title: const Text('SmartBuilding'),
         centerTitle: true,
         backgroundColor: Colors.blue,
       ),
